@@ -8,7 +8,7 @@ And... for those who like to poke around at things... it seems that there is a b
 ![dnd_005](https://user-images.githubusercontent.com/18358246/206772046-e4b5afe7-4811-4a61-af19-4110a706c974.png)
 
 ## How to play the game!
-1. Download the executable in this repo
+1. Download the [executable](https://github.com/stryker2k2/bls-ctf/blob/master/dnd.exe) in this repo
 1. Download [netcat](https://nmap.org/ncat/)
 1. Run the program called `dnd.exe`
 1. Connect to the locally running server by using `ncat localhost 379`
