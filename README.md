@@ -5,6 +5,8 @@ This is a small little server-based game created for the Black Lantern family! I
 
 And... for those who like to poke around at things... it seems that there is a bug in the code of this text-based adventure. There will be an award for those who can find it and extract the CTF Key!
 
+![dnd_005](https://user-images.githubusercontent.com/18358246/206772046-e4b5afe7-4811-4a61-af19-4110a706c974.png)
+
 ## How to play the game!
 1. Download the executable in this repo
 1. Download [netcat](https://nmap.org/ncat/)
