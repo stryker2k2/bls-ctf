@@ -22,7 +22,8 @@ And... for those who like to poke around at things... there is a bug in the code
 1. Profit!
 
 ## Where is the flag?
-The local file will give you instruction on what to do next... if you successfully exploit it.\
+The local file will give you instruction on what to do next after you successfully exploit it. And, yes, the next step contains the actual winning key which involves accessing the exact same dnd.exe file (matching SHA256 hash) on a remote server that has the same vulnerability and the same address space layout.
+
 When you are ready to move to the next step, contact me via Microsoft Teams or @stryker2k2 on Twitter.
 
 ## End Goal
@@ -31,6 +32,8 @@ You are looking for a flag that looks like...\
 
 ## Notes from the Developer
 - Make sure you go down all of the different story paths! I spent a lot of time making the story paths entertaining!
+- You will only be allowed to access the remote server after you send a screenshot proving that you've successfully exploited the local file
+- Attempting an exploit against the remote server will cause the hosted process to crash; contact me to reboot the process
 - Contact me via Microsoft Teams or @stryker2k2 on Twitter is you encounter problems/questions/issues
 - dnd.exe SHA256 Hash: 03DD8BC4E10C8CF899EE707C3652E90E3A0F76E55A70B394EDD40FCAD643B8AC
 
