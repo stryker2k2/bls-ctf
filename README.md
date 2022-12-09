@@ -29,9 +29,10 @@ When you are ready to move to the next step, contact me via Microsoft Teams or @
 You are looking for a flag that looks like...\
 `BLS-CTF{Ex4mple_Fl4g}`
 
-## Misc Info
-SHA256 Hash: 03DD8BC4E10C8CF899EE707C3652E90E3A0F76E55A70B394EDD40FCAD643B8AC\
-Contact me via Microsoft Teams or @stryker2k2 on Twitter is you encounter problems/questions/issues
+## Notes from the Developer
+- Make sure you go down all of the different story paths! I spent a lot of time making the story paths entertaining!
+- Contact me via Microsoft Teams or @stryker2k2 on Twitter is you encounter problems/questions/issues
+- dnd.exe SHA256 Hash: 03DD8BC4E10C8CF899EE707C3652E90E3A0F76E55A70B394EDD40FCAD643B8AC
 
 ## Pictures!
 ![dnd_004](https://user-images.githubusercontent.com/18358246/206769351-b28ad824-f4d1-4748-9c0c-c99bf20def1e.png)
