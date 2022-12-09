@@ -8,6 +8,7 @@ And... for those who like to poke around at things... there is a bug in the code
 ![dnd_005](https://user-images.githubusercontent.com/18358246/206772046-e4b5afe7-4811-4a61-af19-4110a706c974.png)
 
 ## How to play the game!
+1. Star this repo!
 1. Download the [executable](https://github.com/stryker2k2/bls-ctf/blob/master/dnd.exe) in this repo
 1. Download [netcat](https://nmap.org/ncat/)
 1. Run the program called `dnd.exe`
@@ -15,20 +16,19 @@ And... for those who like to poke around at things... there is a bug in the code
 1. Enjoy!
 
 ## How to Capture the Flag!
-1. Poke around the game until you find the hint and/or areas on interest
+1. Poke around the game until you find the hint and/or areas of interest
 1. Statically Reverse Engineer the executable to find the vulnerability
-1. Dynamically debug the executable to determine your Proof of Concept
+1. Dynamically debug the executable and draft your exploit
 1. Execute your exploit
 1. Profit!
 
 ## Where is the flag?
-The local file will give you instruction on what to do next after you successfully exploit it. And, yes, the next step contains the actual winning key which involves accessing the exact same dnd.exe file (matching SHA256 hash) on a remote server that has the same vulnerability and the same address space layout.
-
-When you are ready to move to the next step, contact me via Microsoft Teams or @stryker2k2 on Twitter.
-
-## End Goal
 You are looking for a flag that looks like...\
 `BLS-CTF{Ex4mple_Fl4g}`
+
+The local file will give you instruction on what to do next after you successfully exploit it. And, yes, this next step contains the actual winning flag which involves accessing the exact same dnd.exe file (matching SHA256 hash) on a remote server that has the same vulnerability and the same address space layout.
+
+When you are ready to move to the next step, contact me via Microsoft Teams or @stryker2k2 on Twitter.
 
 ## Notes from the Developer
 - Make sure you go down all of the different story paths! I spent a lot of time making the story paths entertaining!
