@@ -1,4 +1,4 @@
-# Black Lantern Security Christmas Capture the Flag Challenge
+# BLS Christmas Capture the Flag Challenge
 
 ## Summary
 This is a small little server-based game created for the Black Lantern family! It is a Dungeons and Dragons type text-based adventure that focuses around your adventure at the Black Lantern Christmas Party! Download, play, and enjoy!
