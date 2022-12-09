@@ -3,7 +3,7 @@
 ## Summary
 This is a small little server-based game created for the Black Lantern family! It is a Dungeons and Dragons type text-based adventure that focuses around your adventure at the Black Lantern Christmas Party! Download, play, and enjoy!
 
-And... for those who like to poke around at things... it seems that there is a bug in the code of this text-based adventure. There will be an award for those who can find it and extract the CTF Key!
+And... for those who like to poke around at things... there is a bug in the code of this text-based adventure. There will be an award for those who can find the bug, exploit it, and extract the CTF Key!
 
 ![dnd_005](https://user-images.githubusercontent.com/18358246/206772046-e4b5afe7-4811-4a61-af19-4110a706c974.png)
 
